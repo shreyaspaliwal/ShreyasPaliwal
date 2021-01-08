@@ -1,0 +1,41 @@
+.footer{
+    background-color: var(--first-color-dark);
+    color: var(--first-color-lighten);
+    text-align: left;
+}
+
+.footer__container{
+    padding: 0.5rem 0;
+}
+
+/*.footer__title{
+    /*font-size: var(--h1-font-size);*/
+    /*margin-bottom: var(--mb-1);
+    font-weight: var(--font-semi-bold);
+    font-family: Brush Script MT;
+}*/
+
+/*.footer__description{
+    margin-bottom: var(--mb-3);
+}*/
+
+/*.footer__social{
+    margin-top: 0;
+}*/
+
+.footer__link{
+    font-size: 1.4rem;
+    color: var(--first-color-lighten);
+    margin: 0 var(--mb-1);
+    transition: .3s;
+}
+
+.footer__link:hover{
+    color: var(--first-color-light);
+}
+
+.footer__copy{
+    font-size: var(--smaller-font-size);
+    color: var(--first-color-light);
+    text-align: right;
+}

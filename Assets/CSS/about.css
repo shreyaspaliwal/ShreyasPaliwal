@@ -1,0 +1,9 @@
+.about__data{
+    text-align: center;
+}
+
+.about__description span{
+    font-size: var(--h2-font-size);
+    font-weight: var(--font-semi-bold);
+    color: var(--first-color);
+}
